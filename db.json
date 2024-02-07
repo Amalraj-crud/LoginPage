@@ -19,7 +19,15 @@
       "fullName": "Ajith Kanna",
       "email": "ajith@gmail.com",
       "password": "zxcvb",
-      "id": 3
+      "id": 3,
+      "newTodos": [],
+      "completedTodos": [
+        {
+          "id": 1,
+          "doo": "dzgfhcgjvhk",
+          "date": "7|2|2024"
+        }
+      ]
     },
     {
       "userName": "ssss",
@@ -28,9 +36,5 @@
       "password": "sss",
       "id": 4
     }
-    
-  ],
-  "updateLoginData": [
-    []
   ]
 }
